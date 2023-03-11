@@ -7,5 +7,5 @@
 
 git clone repo
 
-- for python: python3.11 -m venv .venv to create venv, pip install pytest, run pytest on test_fizzbuzz
+- for python: python3.11 -m venv .venv to create venv, pip install pytest, run pytest on tests.py
 - for C++: cmake --build build, cd build && ctest
